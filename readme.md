@@ -4,11 +4,11 @@
 
 ## Installation
 
-Begin by installing this package through Composer. Edit your project's `composer.json` file to require `dinesh/barcode`.
+Begin by installing this package through Composer. Edit your project's `composer.json` file to require `rseyferth/barcode`.
 
     "require": {
 		"laravel/framework": "4.0.*",
-		"dinesh/barcode": "dev-master"
+		"rseyferth/barcode": "1.0"
 	}
 
 Next, update Composer from the Terminal:
